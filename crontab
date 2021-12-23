@@ -1,19 +1,4 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@pavangk7 
-@jdeathe
-jdeathe/docker-cron-example.md
-Last active 7 months ago • Report abuse
-19
-1
- Code
- Revisions 5
- Stars 19
- Forks 1
-<script src="https://gist.github.com/jdeathe/94d7b1681187a3a97c5cd4a7eee244f1.js"></script>
+
 How to install/run Cron in a Docker Container
 docker-cron-example.md
 How to install/run Cron in a Docker Container
@@ -129,20 +114,4 @@ prokopvv commented on Jun 12, 2020
 If use https://gist.github.com/jdeathe/94d7b1681187a3a97c5cd4a7eee244f1#option-2---add-jobs-to-etccrond need chek permisioton on cron file.
 For me work only after chmod 0644 -R /etc/cron.d/
 
-@pavangk7
- 
-Leave a comment
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
